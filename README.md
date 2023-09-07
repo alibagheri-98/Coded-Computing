@@ -40,3 +40,5 @@ They also show that CDC works well in practice, like with the development of Cod
 And not just in data centers, but they also extend this idea to mobile edge/fog computing, where there are even bigger communication challenges. They introduce "coded wireless distributed computing" (CWDC) that optimizes how mobile users share data and computations. It's scalable and works well even when users don't know about each other.
 
 ### Coding for straggler mitigation
+
+### Coding for secure and private computing
