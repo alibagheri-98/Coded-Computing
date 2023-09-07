@@ -1,4 +1,5 @@
 # Coded-Computing
+# Abstract
 The abstract introduces "coded computing," a novel approach that employs coding theory to enhance large-scale distributed computing. It addresses communication, straggler delays, privacy, and security issues. Key contributions include:
 
 1. **Coded Distributed Computing (CDC):** Reduces communication load in MapReduce-based systems, achieving optimal computation-communication balance.
